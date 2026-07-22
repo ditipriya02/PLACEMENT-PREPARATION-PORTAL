@@ -1,0 +1,7 @@
+#appId {
+  flex: 1 0 auto;
+}
+
+main > .container {
+  padding: 60px 15px 0;
+}
